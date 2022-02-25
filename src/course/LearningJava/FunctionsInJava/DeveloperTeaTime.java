@@ -1,4 +1,4 @@
-package course.LearningJava.FuntionsInJava;
+package course.LearningJava.FunctionsInJava;
 
 import java.util.Scanner;
 
