@@ -1,4 +1,4 @@
-package course.JavaEssentialTraining.ManageProgramFlow.ManageString;
+package course.JavaEssentialTraining.ManageString;
 
 public class ConvertPrimitiveValuesToString {
     public static void main(String[] args) {

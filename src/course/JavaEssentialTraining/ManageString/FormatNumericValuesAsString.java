@@ -1,4 +1,4 @@
-package course.JavaEssentialTraining.ManageProgramFlow.ManageString;
+package course.JavaEssentialTraining.ManageString;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

@@ -1,4 +1,4 @@
-package course.JavaEssentialTraining.ManageProgramFlow.ManageProgramFlow;
+package course.JavaEssentialTraining.ManageProgramFlow;
 
 public class CreateLoopingCodeBlocks {
     public static void main(String[] args) {
