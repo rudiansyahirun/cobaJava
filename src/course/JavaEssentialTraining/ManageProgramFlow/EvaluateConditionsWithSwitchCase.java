@@ -8,22 +8,11 @@ public class EvaluateConditionsWithSwitchCase {
         var monthNumber = now.getMonthValue();
 
         switch (monthNumber) {
-            case 1:
-                System.out.println("The month is January");
-                break;
-            case 2:
-                System.out.println("The month is February");
-                break;
-            case 3:
-                System.out.println("The month is March");
-                break;
-            case 9:
-            case 10:
-            case 11:
-                System.out.println("It's the 4th quarter");
-                break;
-            default:
-                System.out.println("You choose another month");
+            case 1 -> System.out.println("The month is January");
+            case 2 -> System.out.println("The month is February");
+            case 3 -> System.out.println("The month is March");
+            case 9, 10, 11 -> System.out.println("It's the 4th quarter");
+            default -> System.out.println("You choose another month");
         }
     }
 }
