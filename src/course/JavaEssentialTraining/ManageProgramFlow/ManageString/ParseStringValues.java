@@ -1,4 +1,4 @@
-package course.JavaEssentialTraining.ManageString;
+package course.JavaEssentialTraining.ManageProgramFlow.ManageString;
 
 public class ParseStringValues {
     public static void main(String[] args) {

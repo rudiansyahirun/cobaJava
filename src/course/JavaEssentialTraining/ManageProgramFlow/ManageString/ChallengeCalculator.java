@@ -1,4 +1,4 @@
-package course.JavaEssentialTraining.ManageString;
+package course.JavaEssentialTraining.ManageProgramFlow.ManageString;
 
 import java.util.Scanner;
 

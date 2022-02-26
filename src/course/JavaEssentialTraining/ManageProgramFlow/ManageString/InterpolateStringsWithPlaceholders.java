@@ -1,4 +1,4 @@
-package course.JavaEssentialTraining.ManageString;
+package course.JavaEssentialTraining.ManageProgramFlow.ManageString;
 
 public class InterpolateStringsWithPlaceholders {
     public static void main(String[] args) {

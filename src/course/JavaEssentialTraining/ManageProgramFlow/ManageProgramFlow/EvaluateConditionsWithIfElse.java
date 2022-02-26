@@ -1,4 +1,4 @@
-package course.JavaEssentialTraining.ManageProgramFlow;
+package course.JavaEssentialTraining.ManageProgramFlow.ManageProgramFlow;
 
 import java.time.LocalDateTime;
 //import java.util.Scanner;
