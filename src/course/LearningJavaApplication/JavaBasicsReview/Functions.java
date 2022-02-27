@@ -2,7 +2,7 @@ package course.LearningJavaApplication.JavaBasicsReview;
 
 public class Functions {
     public static void main(String[] args) {
-        Functions.printS("This is a static method");
+        Functions.printS("This is a static method"); // the name of the class not required
 
         Functions myFuncNS = new Functions();
         myFuncNS.printNS("This is an instance method");
